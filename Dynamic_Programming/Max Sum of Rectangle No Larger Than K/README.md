@@ -22,4 +22,4 @@ m == matrix.length
 n == matrix[i].length
 1 <= m, n <= 100
 -100 <= matrix[i][j] <= 100
--105 <= k <= 105
+-10^5 <= k <= 10^5
